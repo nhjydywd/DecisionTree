@@ -1,5 +1,5 @@
 # DecisionTree
-A simple python implementation of Decision Tree, using Gini index.
+A simple python implementation of Decision Tree. Suitable for learners.
 
 Usage:
 ```
